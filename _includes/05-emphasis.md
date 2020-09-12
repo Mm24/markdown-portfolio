@@ -1,6 +1,6 @@
 Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
 
-Regarding the Python skills, Over the course of my master studies I have gain python experience by exercises:
+Regarding the **Python skills**, I have gain experience in my Master by exercises:
 - Master Thesis in Pattern Recognition Lab in Collaboration with Siemens
 Healthineers: “Assessment of cardiac valve motion on time-resolved MRI images using deep learning” in Pytorch.
 - Deep Learning Lecture exercies
