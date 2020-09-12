@@ -1,1 +1,8 @@
-Replace this with a list of your favorite things.
+IT skills: 
+- Python 
+- Pytorch
+- Matlab
+- Java
+- C++
+- Git
+ -Docker
